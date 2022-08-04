@@ -20,9 +20,5 @@ public class Fibonacci {
 			System.out.println(c);
 			i++;
 		}
-		
-		
-		
-
 	}
 }
